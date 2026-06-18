@@ -1,4 +1,6 @@
 function batch_PSID_Sim(whichFile)
+% Based on a script by Bryan Tseng (btseng2@jh.edu) and the PSID repository, Sani et al. 2021. Modeling behaviorally relevant neural dynamics enabled by preferential subspace identification. Nature Neuroscience. https://doi.org/10.1038/s41593-020-00733-0, https://github.com/ShanechiLab/PSID
+% To run:
 % batch_PSID_Sim('saveFMT_1bhvgraded_forCLDS_GOOD_251113.mat')
 %% Add PSID utilities
 addpath(genpath('.'));
