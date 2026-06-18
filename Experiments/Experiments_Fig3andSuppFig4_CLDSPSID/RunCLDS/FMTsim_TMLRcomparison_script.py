@@ -3,7 +3,7 @@
 
 # In[2590]:
 
-
+# Based on notebooks at https://github.com/neurostatslab/clds/tree/master/notebooks, Geadah et al. 2025, Modeling Neural Activity with Conditionally Linear Dynamical Systems, https://arxiv.org/abs/2502.18347
 import numpy as np
 import jax
 import jax.numpy as jnp
